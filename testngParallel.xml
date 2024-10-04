@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel Execution Suite" parallel="tests" thread-count="2">
+    <test name="RedBus Tests">
+        <classes>
+            <class name="com.redbus.test.RedBusSearchBusTest"/>
+            <class name="com.redbus.test.RedBusHelpTest"/>
+            <class name="com.redbus.test.RedBusHomeTest"/>
+        </classes>
+    </test>
+</suite>

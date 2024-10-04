@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Grouping Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="RedBus Tests(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <exclude name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.redbus.test.RedBusHomeTest">
+        <methods>
+          <include name="verifyHelpPage"/>
+          <include name="verifyTrainPage"/>
+          <include name="verifyHomePageDeafault"/>
+        </methods>
+      </class> <!-- com.redbus.test.RedBusHomeTest -->
+      <class name="com.redbus.test.RedBusSearchBusTest">
+        <methods>
+          <include name="invalidSearch" invocation-numbers="0 1"/>
+          <include name="validSearch" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.redbus.test.RedBusSearchBusTest -->
+    </classes>
+  </test> <!-- RedBus Tests(failed) -->
+</suite> <!-- Failed suite [Grouping Suite] -->

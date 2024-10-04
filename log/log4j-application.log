@@ -1,0 +1,70 @@
+2024-04-21 18:53:18,874  INFO [main] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:18,932  INFO [main] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:18,936  INFO [main] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:18,967  INFO [main] DriverSetup109 - Setting up Extent Report
+2024-04-21 18:53:18,967  INFO [main] DriverSetup230 - Moving current results to archive
+2024-04-21 18:53:19,528  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:53:23,226  INFO [TestNG-tests-1] DriverSetup50 - Performing Invalid Search
+2024-04-21 18:53:23,233  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:23,236  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:32,349  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:53:33,841  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:53:37,494  INFO [TestNG-tests-1] DriverSetup50 - Performing Invalid Search
+2024-04-21 18:53:37,495  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:37,496  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:47,449  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:53:48,872  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:53:52,276  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:52,277  INFO [TestNG-tests-1] RedBusHomeTest71 - Verifying Help Page
+2024-04-21 18:53:52,279  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:52,279  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:53:56,763  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:53:58,144  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:54:02,626  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:02,627  INFO [TestNG-tests-1] RedBusHomeTest20 - Verifying Home Page Default
+2024-04-21 18:54:02,628  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:02,629  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:02,773  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:54:04,229  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:54:09,326  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:09,326  INFO [TestNG-tests-1] RedBusHomeTest45 - Verifying Navigation to Home Page using Breadcrumb
+2024-04-21 18:54:09,327  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:09,327  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:13,010  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:54:14,478  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:54:18,484  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:18,485  INFO [TestNG-tests-1] RedBusHomeTest58 - Verifying Navigation to Home Page using RedBus Logo
+2024-04-21 18:54:18,486  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:18,486  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:22,788  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:54:24,305  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:54:28,326  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:28,327  INFO [TestNG-tests-1] DriverSetup20 - Verifying Technical Issue- Deactivate Account
+2024-04-21 18:54:28,334  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:28,335  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:37,137  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:54:38,545  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:54:42,345  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:42,346  INFO [TestNG-tests-1] RedBusHomeTest33 - Verifying Train Page
+2024-04-21 18:54:42,347  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:42,347  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:45,610  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:54:46,997  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:54:50,771  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:50,771  INFO [TestNG-tests-1] RedBusHomeTest33 - Verifying Train Page
+2024-04-21 18:54:50,772  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:50,772  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:54:54,148  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:54:54,150  INFO [TestNG-tests-1] DriverSetup180 - Error message: expected [redRail: Train  Booking] but found [redRail: Train Ticket Booking]
+2024-04-21 18:54:54,151  INFO [TestNG-tests-1] DriverSetup199 - Taking screenshot: verifyTrainPage_expected__redRail__Train__Booking__but_found__redRail__Train_Ticket_Booking_
+2024-04-21 18:54:56,285  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:55:00,040  INFO [TestNG-tests-1] DriverSetup27 - Performing Valid Search
+2024-04-21 18:55:00,041  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:55:00,041  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:55:12,440  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:55:13,919  INFO [TestNG-tests-1] DriverSetup73 - Selecting browser: Edge
+2024-04-21 18:55:17,680  INFO [TestNG-tests-1] DriverSetup27 - Performing Valid Search
+2024-04-21 18:55:17,681  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:55:17,682  INFO [TestNG-tests-1] DriverSetup45 - Initializing DriverSetup
+2024-04-21 18:55:32,400  INFO [TestNG-tests-1] DriverSetup150 - Taking screenshot on failure
+2024-04-21 18:55:34,066  INFO [main] DriverSetup143 - Flushing Extent Report
